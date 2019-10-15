@@ -134,7 +134,7 @@
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits/publicpensions.html'>Public pensions</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp.html'>Canada Pension Plan - Overview</a></li>
-<li><a href='https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While%20on%20CPP%20disability'>Disability benefit – Canada Pension Plan: While on CPP Disability</a></li>
+<li><a href='https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-disability'>Disability benefit – Canada Pension Plan: While on CPP Disability</a></li>
 </ol></div></nav>
 
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
@@ -158,10 +158,10 @@
             <div class="row">
               <ul class="toc lst-spcd col-md-12">
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/1.Overview" class="list-group-item">1. Overview</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who%20can%20get%20this%20benefit" class="list-group-item">2. Who can get this benefit</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who-can-get-this-benefit" class="list-group-item">2. Who can get this benefit</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While%20on%20CPP%20disability" class="list-group-item active">5. While on CPP Disability</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-disability" class="list-group-item active">5. While on CPP disability</a></li>
 			<li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/6.Health-care-professionals" class="list-group-item">6. Information for health care professionals</a> </li>
               </ul>
             </div>
@@ -229,6 +229,7 @@ Once all the necessary information has been collected, a decision to continue or
     
     <ul class="pager">
       <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/4.Apply" rel="prev">Previous</a></li>
+		      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/6.Health-care-professionals" rel="next">Next</a></li>
       </ul>
   </nav>
         
