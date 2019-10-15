@@ -158,10 +158,10 @@
             <div class="row">
               <ul class="toc lst-spcd col-md-12">
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/1.Overview" class="list-group-item">1. Overview</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who%20can%20get%20this%20benefit" class="list-group-item">2. Who can get this benefit</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who-can-get-this-benefit" class="list-group-item">2. Who can get this benefit</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/4.Apply" class="list-group-item active">4. Apply</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item">5. While on CPP Disability</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-Disability" class="list-group-item">5. While on CPP disability</a></li>
 				 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/6.Health-care-professionals" class="list-group-item">6. Information for health care professionals</a> </li>
               </ul>
             </div>
@@ -319,8 +319,8 @@
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How%20much%20you%20could%20receive" rel="prev">Previous</a></li>
-      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While%20on%20CPP%20disability" rel="next">Next</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive" rel="prev">Previous</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-disability" rel="next">Next</a></li>
       </ul>
   </nav>
         
