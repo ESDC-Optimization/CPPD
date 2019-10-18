@@ -51,9 +51,96 @@
 </head>
 
 <body vocab="http://schema.org/" typeof="WebPage">
+<div class="par iparys_inherited">
+  <div class="global-header">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+        <li class="wb-slc"><a class="wb-sl" href="#wb-info">Skip to &#34;About government&#34;</a></li>
+      </ul>
+    </nav>
+    <header>
+      <div id="wb-bnr" class="container">
+        <section id="wb-lng" class="text-right">
+          <h2 class="wb-inv">Language selection</h2>
+          <div class="row">
+            <div class="col-md-12">
+              <ul class="list-inline margin-bottom-none">
+                <li> <a lang="fr" href="/fr/services/prestations/pensionspubliques/rpc/prestation-invalidite-rpc.html"> Fran&ccedil;ais </a> </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <div class="row">
+          <div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization"> <a href="/en.html" property="url"> <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo"> <span class="wb-inv" property="name"> Government of Canada</span> </a>
+            <meta property="areaServed" typeof="Country" content="Canada"/>
+            <link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+          </div>
+          <section id="wb-srch" class="col-lg-8 text-right">
+            <h2>Search</h2>
+            <form action="/en/sr/srb.html" method="get" name="cse-search-box" role="search" class="form-inline">
+              <div class="form-group">
+                <label for="wb-srch-q" class="wb-inv">Search Canada.ca</label>
+                <input name="cdn" value="canada" type="hidden"/>
+                <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search Canada.ca"/>
+<input name="st" value="s" type="hidden"/>
+                <input name="num" value="10" type="hidden"/>
+                <input name="langs" value="en" type="hidden"/>
+                <input name="st1rt" value="1" type="hidden"/>
+                <input name="s5bm3ts21rch" value="x" type="hidden"/>
+                <input type="hidden" name="_charset_" value="UTF-8"/>
+                <datalist id="wb-srch-q-ac"> </datalist>
+              </div>
+              <div class="form-group submit">
+                <button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+              </div>
+            </form>
+          </section>
+        </div>
+      </div>
+      <nav class="gcweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+        <div class="container">
+          <h2 class="wb-inv">Menu</h2>
+          <button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+          <ul role="menu" aria-orientation="vertical" data-ajax-replace="/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+          </ul>
+        </div>
+      </nav>
+      <nav id="wb-bc" property="breadcrumb">
+        <h2 class="wb-inv">You are here:</h2>
+        <div class="container">
+          <ol class="breadcrumb">
+            <li><a href="https://www.canada.ca/en.html">Home</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits/publicpensions.html">Public pensions</a></li>
+            <li><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/1.Overview">Disability benefit – Canada Pension Plan: Overview</a></li>
+          </ol>
+        </div>
+      </nav>
+      <div data-ajax-replace="/bin/canada/alert/messages.en.html" class="original"></div>
+    </header>
+  </div>
+</div>
 <main property="mainContentOfPage" typeof="WebPageElement" class="container">
+  <h1 property="name" id="wb-cont" dir="ltr"> Disability benefit – Canada Pension Plan: Overview</h1>
   <div>
     <div class="mwsgeneric-base-html parbase section">
+      <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
       <div class="pagetag">
         <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
           <div class="row">
@@ -121,17 +208,17 @@
             <li>a complete application form (including  questionnaire and signed consent form)<strong></strong></li>
             <li>a medical report signed  within 12 months.<strong></strong></li>
           </ul>
-          <p>For <strong>eligible disabilities</strong>, we aim make a  decision on your eligibility within <strong>120  calendar days (4 months)</strong>. <br>
-If your <strong>condition is grave</strong>, we aim to process  your application within <strong>30 calendar days</strong>.<br>
-If you are <strong>terminally ill</strong>, we aim to process your  application within <strong>5 business days</strong>.</p>
-          <h2>Definitions</h2>
-          <p><strong>Terminally ill</strong><strong> </strong></p>
-            <p>A terminal  medical condition is a disease state that cannot be cured or adequately treated  and is reasonably expected to result in death within 6 months. </p>
+          <p>If you are <strong>terminally  ill</strong>, we aim to process your application within <strong>5 business days</strong>.</p>
+            If your <strong>condition is  grave</strong>, we aim to process your application within <strong>30 calendar days</strong>.</p>
+            <p>For all <strong>other eligible  disabilities</strong>, we aim make a decision on your eligibility within <strong>120 calendar days (4 months)</strong>. </p>
+            <h2>Definitions</h2>
+		  <p><strong>Terminally ill</strong><strong> </strong></p>
+              <p>A terminal  medical condition is a disease state that cannot be cured or adequately treated  and is reasonably expected to result in death within 6 months.</p>
   <p><strong>Grave condition</strong></p>
-<h2>Where you can get help</h2>
+          <h2>Where you can get help</h2>
           <p>If you have general  questions about the disability benefits or specific questions about your  application, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact  us</a>.</p>
           <h2>Other disability resources</h2>
-          <p>We offer other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with disabilities</a>.</p>
+          <p>We offer  other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with  disabilities</a>.</p>
           <div>
           </div>
 </section>
@@ -142,7 +229,7 @@ If you are <strong>terminally ill</strong>, we aim to process your  application 
           <li class="next"> <a rel="next" href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who-can-get-this-benefit">Next</a> </li>
         </ul>
       </nav>
-		</div>
+	</div>
      </div>
     </div>
   </div>
