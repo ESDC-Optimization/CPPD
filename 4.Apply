@@ -202,14 +202,14 @@
 <section>
 	<p>If you are already familiar with the program:</p>
     <p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
-    <h2>Decide how to apply</h2>
+    <h2 id="step1">Decide how to apply</h2>
     <p>There are 2  ways to apply:</p>
     <ul>
       <li><a href="#Submit_paper">Apply using a paper application</a></li>
       <li><a href="#Submit_online">Apply online</a></li>
     </ul>
 <p>To apply online you will require a My Service Canada Account (MSCA).<a href="https://www.canada.ca/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for one to receive a personal access code to complete your registration.</h2>
-		  <h2>Submit your application</h2>
+		  <h2 id="id="step2>Submit your application</h2>
 	<div class="row">
     <div class="col-md-6">
 		<section class="panel panel-default mrgn-bttm-0">
@@ -341,10 +341,7 @@
   </ul>
     <h3>Protecting your information</h3>
     <p>Learn how we protect your <a href="https://www.canada.ca/en/employment-social-development/services/my-account/request-pac.html">privacy</a>. </p>
-    <h2 id="step2">Submit forms by  mail</h2>
-    <p>You must apply in writing. Print copies of the forms and&nbsp;return to us&nbsp;with&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1730CPP">certified copies</a>&nbsp;of any required documents.</p>
-      <p><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Mail  your forms</a> or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada office.</a></p>
-<h2 id="step3">Get updates on your application</h2>
+<h2 id="step3">Receive a response from us</h2>
     <p>It can take up to <strong>120 days (four months) for a decision to be made</strong>&nbsp;from the date we receive your complete application and all required  documents. </p>
 <ol start="1" type="1">
   <li> <strong>When we receive your application,</strong> we will call you.</li>
