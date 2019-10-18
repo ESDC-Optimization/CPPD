@@ -202,14 +202,14 @@
 <section>
 	<p>If you are already familiar with the program:</p>
     <p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
-    <h2 id="step1">Decide how to apply</h2>
+<h2 id="step1">Decide how to apply</h2>
     <p>There are 2  ways to apply:</p>
     <ul>
       <li><a href="#Submit_paper">Apply using a paper application</a></li>
       <li><a href="#Submit_online">Apply online</a></li>
     </ul>
 <p>To apply online you will require a My Service Canada Account (MSCA).<a href="https://www.canada.ca/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for one to receive a personal access code to complete your registration.</h2>
-		  <h2 id="id="step2>Submit your application</h2>
+<h2 id="step2">Submit your application</h2>
 	<div class="row">
     <div class="col-md-6">
 		<section class="panel panel-default mrgn-bttm-0">
@@ -251,9 +251,9 @@
 	<h3>If you have a terminal illness</h3>
 <p>A terminal medical condition is a disease state that cannot be cured or adequately treated and is reasonably expected to result in death within 6 months. </p> 
 
-	<div class="row">
+<div class="row">
     <div class="col-md-6">
-		<section class="panel panel-default">
+	  <section class="panel panel-default">
             <header class="panel-heading">
               <h5 class="panel-title" id="Submit_online">Submit online</h5>
             </header>
@@ -324,9 +324,9 @@
     </ul>
     <p>This form&nbsp;<strong>does not </strong>give the person helping you authority&nbsp;to:</p>
     <ul>
-      <li>apply for benefits on your behalf </li>
+      <li>apply for benefits on your behalf</li>
       <li>change your payment address</li>
-      <li>request or change the withholding of tax for you. </li>
+      <li>request or change the withholding of tax for you</li>
     </ul>
     <p><strong>If you are applying on someone&rsquo;s behalf</strong><br>
       If  someone cannot manage their own affairs, another person or agency may act on  their behalf. Find out how someone can<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-homeless-seniors-third-party-admin.html"> serve as a third-party administrator</a>.&nbsp; <br>
@@ -372,6 +372,14 @@
     <p>Service Canada does not consider the availability of  suitable employment in the applicant&rsquo;s region when determining eligibility.</p>
 <h2>Your first payment</h2>
     <p>Your decision letter will give you the date and amount of your first payment.</p>
+    <h2 id="step4">Review your application status </h2>
+    <p>To view your application  status, you can:</p>
+  <ul type="disc">
+      <li><a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">log       into MSCA</a></li>
+      <li><a href="https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html">contact Service Canada</a></li>
+    </ul>
+<p>If  you're not registered with MSCA, you can create an account.</p>
+	
     <h2 id="step5">If you disagree with the decision</h2>
     <p>If you disagree with the decision, you may ask to have the decision reviewed. You must request this review  in writing <strong>within 90 days of receiving your decision letter</strong>.</p>
 	<p>Your application will be reviewed by Service Canada staff who were not involved in making the original decision on your application.</p>
@@ -387,7 +395,7 @@
 <li>any new information that could affect the  decision</li>
 	  </ul>
     </ol>
-    <p><strong>Sign and date your written request and submit it by mail to the return address on the decision letter </strong><strong>or take it in person to a Service Canada Centre.</strong></p>
+    <p><strong>Sign and date your written request and submit it by mail to the return address on the decision letter or take it in person to a Service Canada Centre.</strong></p>
 <p>It can take <strong>up to 120  days (four months)</strong> to review the decision, depending on the case. We will re-examine your application and send the reasons for the decision to you by mail.</p>
     <p>If you disagree with the new decision, you can contact the&nbsp;<a href="http://www1.canada.ca/en/sst/index.html">Social Security Tribunal</a>&nbsp;to appeal.</p>
         <p>Because we are adding links to the 2 forms, reference to the  kit causes confusion.</p>
@@ -399,7 +407,7 @@
       <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive" rel="prev">Previous</a></li>
       <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-disability" rel="next">Next</a></li>
   </ul>
-  </nav>
+</nav>
         <div class="pagedetails ">
   <div class="row">
 <div class="col-sm-6 col-md-5 col-lg-4">
