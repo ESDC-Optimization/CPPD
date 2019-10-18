@@ -209,7 +209,7 @@
       <li><a href="#Submit_online">Apply online</a></li>
     </ul>
 <p>To apply online you will require a My Service Canada Account (MSCA).<a href="https://www.canada.ca/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for one to receive a personal access code to complete your registration.</h2>
-	<h2>Submit your application</p>
+		  <h2>Submit your application</h2>
 	<div class="row">
     <div class="col-md-6">
 		<section class="panel panel-default mrgn-bttm-0">
@@ -253,7 +253,7 @@
 
 	<div class="row">
     <div class="col-md-6">
-		<section class="panel panel-default mrgn-bttm-0">
+		<section class="panel panel-default">
             <header class="panel-heading">
               <h5 class="panel-title" id="Submit_online">Submit online</h5>
             </header>
