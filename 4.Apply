@@ -145,10 +145,9 @@
 </div>
 
     <main property="mainContentOfPage" typeof="WebPageElement" class="container">
-        
 
       <h1>Disability benefit – Canada  Pension Plan: Apply</h1>
-      <div><div class="mwsgeneric-base-html parbase section">
+      <div class="mwsgeneric-base-html parbase section">
         
         
         
@@ -179,42 +178,122 @@
           <div class="row list-unstyled">
 <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-1.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step1">Make sure your application is complete</a></p>
+			<p class="text-left mrgn-tp-md"><a href="#step1">Decide how to apply</a></p>
 	</section>
 	<section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-2.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step2">Submit forms by mail</a></p>
+			<p class="text-left mrgn-tp-md"><a href="#step2">Submit your application</a></p>
 	</section>
       <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-3.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step3">Get updates from us</a></p>
+			<p class="text-left mrgn-tp-md"><a href="#step3">Receive a response from us</a></p>
 	</section>
 			  <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-4.png" alt=""></div>
-			<p class="text-left mrgn-tp-md"><a href="#step4">Get your first payment</a></p>
+			<p class="text-left mrgn-tp-md"><a href="#step4">Review your application status</a></p>
 	</section>
 			  <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-5.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step5">If you disagree with the decision</a></p>
 	</section>
-		    </div>
-			</div>
+    </div>
+</div>
+</section>
 <section>
-    <h2 id="step1">Make sure your application is complete</h2>
-    <p> To  apply for a disability benefit you  need to complete the following 2 forms :</p>
+	<p>If you are already familiar with the program:</p>
+    <p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
+    <h2>Decide how to apply</h2>
+    <p>There are 2  ways to apply:</p>
     <ul>
-      <li><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-1151.pdf">Application for Canada Pension Plan Disability Benefits form(ISP-1151)</a> </li>
-      <li>Complete section 1 and 2 of the <a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">Medical  Report for a Canada Pension Plan Disability Benefit form (ISP-2519)</a> and ask your doctor or nurse practitioner to  complete the rest of the form </li>
+      <li><a href="#Submit_paper">Apply using a paper application</a></li>
+      <li><a href="#Submit_online">Apply online</a></li>
     </ul>
-    <h3>If you have a terminal illness</h3>
-    <p>A terminal medical condition is a disease state that cannot be cured or  adequately treated and is reasonably expected to result in death within 6 months. <br>
-      To  apply for disability benefits for a terminal illness you need to complete these 2 forms instead: </p>
-    <ul>
-      <li><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530A.pdf">Terminal Illness Application for Disability Benefits Under the Canada Pension Plan form  (ISP-2530A)</a></li>
-      <li>Complete section 1 and 2 of the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530B.pdf">Terminal  Illness Medical Attestation for a Disability Benefits Application under the  Canada Pension Plan form (ISP-2530B)</a> and ask your doctor or nurse practitioner to  complete the rest of the form</li>
-    </ul>
-	<details>
-    <summary> Information on completing the application form </summary>
+<p>To apply online you will require a My Service Canada Account (MSCA).<a href="https://www.canada.ca/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for one to receive a personal access code to complete your registration.</h2>
+	<h2>Submit your application</p>
+	<div class="row">
+    <div class="col-md-6">
+		<section class="panel panel-default mrgn-bttm-0">
+            <header class="panel-heading">
+              <h5 class="panel-title" id="Submit_online">Submit online</h5>
+            </header>
+            <div class="panel-body">
+              <p>If  you are applying online, you must: </p>
+              <ol>
+                <li><a href="https://canada-preview.adobecqms.net/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for a My Service Canada account . You&rsquo;ll receive a personal access code to  complete your registration. </li>
+                <li>log into your <a href="https://www.canada.ca/en/employment-social-development/services/my-account/access.html">MSCA</a> and complete the application form online </li>
+                <li>complete the following forms and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail them to us</a>, or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada office</a>: </li>
+				  <ul type="disc">
+                <li><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">Medical  report (ISP215)</a> (required)</li>
+				<li><a href="http://forms-formulaires.prv/lc/content/EForms/en/Detail.html?Form=ISP2502B">Consent for Service Canada to Obtain Personal Information form (ISP2502-B)</a> (required)</li>
+				  </ul>
+			  </ol>
+            <p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
+		</div>
+      </section>
+
+</div>
+
+<div class="col-md-6">
+    <section class="panel panel-default mrgn-bttm-0">
+            <header class="panel-heading">
+              <h5 class="panel-title" id="Submit_paper">Submit using a paper application</h5>
+            </header>
+        <div class="panel-body">
+              <p>If  you are applying by paper, you must complete the following forms and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail  them to us</a>, or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada office</a>: </p>
+              <ul>
+                <li><u><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-1151.pdf">Application form (ISP1151)</a></u> (required)<u> </u></li>
+                <li><u><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">Medical report (ISP2519)</a></u> (required) </li>
+              </ul>
+        </div>
+    </section>
+</div>
+</div>
+	<h3>If you have a terminal illness</h3>
+<p>A terminal medical condition is a disease state that cannot be cured or adequately treated and is reasonably expected to result in death within 6 months. </p> 
+
+	<div class="row">
+    <div class="col-md-6">
+		<section class="panel panel-default mrgn-bttm-0">
+            <header class="panel-heading">
+              <h5 class="panel-title" id="Submit_online">Submit online</h5>
+            </header>
+            <div class="panel-body">
+              <p>If you are applying online, you must: </p>
+              <ol>
+                <li><a href="https://canada-preview.adobecqms.net/en/employment-social-development/services/my-account/how-to-access.html">Register</a> for a My Service Canada account. You&rsquo;ll receive a personal access code to  complete your registration. </li>
+                <li>log into your <a href="https://www.canada.ca/en/employment-social-development/services/my-account/access.html">MSCA</a> and complete the application form online </li>
+                <li>complete the following forms and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail them to us</a>, or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada office</a>: </li>
+              <ul type="disc">
+                <li><u><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP2530B">Terminal Illness Medical Attestation form (ISP2530B)</a></u> (required)</li>
+                <li><a href="http://forms-formulaires.prv/lc/content/EForms/en/Detail.html?Form=ISP2502B">Consent  for Service Canada to Obtain Personal Information form (ISP2502-B)</a> (required) </li>
+              </ul>
+			  </ol>
+<p><a class="btn btn-primary" rel="external" href="https://srv270.hrdc-drhc.gc.ca/AW/introduction?GoCTemplateCulture=en-CA">Apply online now</a> </p>
+		</div>
+      </section>
+
+</div>
+
+<div class="col-md-6">
+    <section class="panel panel-default mrgn-bttm-0">
+            <header class="panel-heading">
+              <h5 class="panel-title" id="Submit_paper">Submit using a paper application</h5>
+            </header>
+            <div class="panel-body">
+              <p>If  you are applying by paper, you must complete the following forms and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail  them to us</a>, or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service  Canada office</a>: </p>
+              <ul>
+                <li><u><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP2530A">Terminal Illness Application form (ISP2530A)</a></u> (required)</li>
+                <li><u><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP2530B">Terminal Illness Medical Attestation form  (ISP2530B)</a></u> (required)</li>
+              </ul>
+            </div>
+  </section>
+</div>
+		  </div>
+
+
+<section>
+  <details>
+	  <summary> Information on completing the application form </summary>
     <ul type="disc">
       <li>read all instructions, which include steps for completing your application, changes that may affect your benefits, an address page, a checklist and other  information about disability benefits</li>
       <li>write/type your Social Insurance Number at the top of each page in the form and sign all areas that require your signature</li>
@@ -222,7 +301,7 @@
       <li>If you are unable to fill out the forms,&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html">a family member or a friend can help you</a>. Make sure that you sign where necessary.</li>
       <li>Keep photocopies of everything you submit. If you call us, write down the name of the person you speak to and the date and time  of your conversation. Keep all the information in one place.</li>
     </ul>
-	</details>
+  </details>
 	<details>
     <summary> Information on completing the medical form</summary>
     <p>In addition to your application, you need a medical form completed  by your doctor or nurse practitioner. It is very important that you:</p>
@@ -239,7 +318,7 @@
     <ul>
       <li>sign  in to your&nbsp;<a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service Canada Account</a><u>;</u></li>
     </ul>
-    <p><strong>or</strong><strong> </strong></p>
+    <p><strong>or</strong></p>
     <ul>
       <li>complete the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1603CPP">Consent  to Communicate Information to an Authorized Person&nbsp;form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail  it to us</a>, or drop it off at a <u><a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service Canada office</a></u></li>
     </ul>
@@ -259,7 +338,7 @@
         <li><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3506OAS">Agreement to administer benefits under the Old Age Security Act and/or the Canada Pension Plan by a Private Trustee form</a> (for administration by an individual)</li>
         <li><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3507OAS">Agreement to administer benefits under the Old Age Security Act and/or the Canada Pension Plan by an Agency or Institution form</a> (for administration by an agency, charitable organization or municipality)</li>
       </ul>
-		  </ul>
+  </ul>
     <h3>Protecting your information</h3>
     <p>Learn how we protect your <a href="https://www.canada.ca/en/employment-social-development/services/my-account/request-pac.html">privacy</a>. </p>
     <h2 id="step2">Submit forms by  mail</h2>
@@ -291,43 +370,41 @@
       <li>the impact of the condition and treatment on your capacity to work</li>
       <li>the likely course of your condition</li>
       <li>your age, education and work history</li>
-      <li>your work performance, productivity and how much you are earning</li>
+      <li>your work performance, productivity and how much you are earning </li>
     </ul>
-    <h2 id="step4"> Your first payment</h2>
+    <p>Service Canada does not consider the availability of  suitable employment in the applicant&rsquo;s region when determining eligibility.</p>
+<h2>Your first payment</h2>
     <p>Your decision letter will give you the date and amount of your first payment.</p>
     <h2 id="step5">If you disagree with the decision</h2>
-    <p>If you disagree with the decision, you may ask to have the decision reviewed. You must request us to this review the decision in writing <strong>within 90 days of the date in </strong><strong>receiving your  decision letter</strong>.</p>
+    <p>If you disagree with the decision, you may ask to have the decision reviewed. You must request this review  in writing <strong>within 90 days of receiving your decision letter</strong>.</p>
+	<p>Your application will be reviewed by Service Canada staff who were not involved in making the original decision on your application.</p>
 <p>To request a review of the decision:</p>
 
     <ol type="a">
-      <li>complete&nbsp;and  send us the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1145">Request for Reconsideration of a Canada Pension Plan Disability Decision</a></li>
+      <li>complete&nbsp;and  send us the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1145">Request for Reconsideration of a Canada Pension Plan Disability Decision form and return it to the nearest Service Canada office listed on the form.</a></li>
 		<p><strong>or</strong></p>
-        <li>send us a written request asking us to review the decision that and includes:</li>
+        <li>send us a written request to review the decision and include:</li>
 		<ul>
 		  <li>your name, address, telephone number and Social Insurance Number or Client Identification Number</li>
-		  <li>a detailed explanation of why think we should reconsider you do not agree with the  decision</li>
+		  <li>a detailed explanation of why you do not agree with the  decision</li>
 <li>any new information that could affect the  decision</li>
-		  </ul>
+	  </ul>
     </ol>
     <p><strong>Sign and date your written request and submit it by mail to the return address on the decision letter </strong><strong>or take it in person to a Service Canada Centre.</strong></p>
 <p>It can take <strong>up to 120  days (four months)</strong> to review the decision, depending on the case. We will re-examine your application and send the reasons for the decision to you by mail.</p>
     <p>If you disagree with the new decision, you can contact the&nbsp;<a href="http://www1.canada.ca/en/sst/index.html">Social Security Tribunal</a>&nbsp;to appeal.</p>
         <p>Because we are adding links to the 2 forms, reference to the  kit causes confusion.</p>
-		</section>
-        </section>
-        <nav role="navigation">
-    <h2 class="wb-inv">Document navigation</h2>
+</section>
+<nav role="navigation">
+  <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
       <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive" rel="prev">Previous</a></li>
       <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/5.While-on-CPP-disability" rel="next">Next</a></li>
-      </ul>
+  </ul>
   </nav>
-        
-  </div>
-</div>
         <div class="pagedetails ">
-<div class="row">
+  <div class="row">
 <div class="col-sm-6 col-md-5 col-lg-4">
     <details class="brdr-0">
         
@@ -386,7 +463,7 @@
                         <label for="problem10"><input name="problem10" id="problem10" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Other login error not in this list-Autre erreur lors de l'ouverture de session qui ne figure pas sur cette liste">Other login error not in this list</label>
                         <input name="problem10" type="hidden" value="No">
                      </li>		 
-                     </ul>
+                    </ul>
 				    <div class="checkbox">
                     <label for="problem11"><input name="problem11" id="problem11" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="I can't find what I'm looking for-Je n'arrive pas à trouver ce que je cherche">I can't find what I'm looking for</label>
                     <input name="problem11" type="hidden" value="No">
@@ -395,7 +472,7 @@
                     <label for="problem12"><input name="problem12" id="problem12" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Other issue not in this list-Autre problème qui ne figure pas sur cette liste">Other issue not in this list</label>
                     <input name="problem12" type="hidden" value="No">
                 </div>                 
-                   </fieldset>
+                  </fieldset>
             <button data-wb5-click="postback@#gc-rprt-prblm-form@" type="submit" class="btn btn-primary wb-toggle" data-toggle='{"stateOff": "hide", "stateOn": "show", "selector": ".gc-rprt-prblm-tggl"}'>Submit</button>
 
         </form>
