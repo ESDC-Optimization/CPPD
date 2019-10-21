@@ -199,28 +199,31 @@
           <h2>When you should apply</h2>
           <p>You have to <a href="#_Disability_Benefits_–">apply for this  benefit</a>. You should apply for this benefit  as soon as possible. </p>
           <h2>Benefit amount</h2>
-          <p>The basic disability benefit payment is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. Find  out more about <a href="https://github.com/Shawna-Guy/CPPD/blob/master/3.How-much-you-could-receive">how much you could receive</a>.
+          <p>The basic disability benefit payment is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. Find  out more about <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/3.How-much-you-could-receive">how much you could receive</a>.
           </p>
           <h2>How long it will take</h2>
-          <p>It can take up to<strong> four months for a decision to be made. </strong>&nbsp;The  date your application form is received may affect the date your benefit begins.  Do not wait for your completed medical form before sending your completed  application form.<br>
-            However, a decision on your application can only be made <strong>when you have sent both of the following: </strong></p>
+          <p>It can take up to<strong> four months for a decision to be made. </strong>&nbsp;The  date your application form is received may affect the date your benefit begins. Do not wait for your completed medical form before sending your completed  application form.</p>
+            <p>However, a decision on your application can only be made <strong>when you have sent both of the following: </strong></p>
           <ul>
             <li>a complete application form (including  questionnaire and signed consent form)</li>
             <li>a medical report signed  within 12 months</li>
           </ul>
-          <p>If you are <strong>terminally  ill</strong>, we aim to process your application within <strong>5 business days</strong>.</p>
-            If your <strong>condition is  grave</strong>, we aim to process your application within <strong>30 calendar days</strong>.</p>
-            <p>For all <strong>other eligible  disabilities</strong>, we aim make a decision on your eligibility within <strong>120 calendar days (4 months)</strong>. </p>
-            <h2>Definitions</h2>
-		  <p><strong>Terminally ill</strong><strong> </strong></p>
+          <p>For <strong>eligible disabilities</strong>, we aim make a  decision on your eligibility within <strong>120  calendar days (4 months)</strong>. </p>
+<p>If your <a href="#grave"><strong>condition is grave</strong></a>, we aim to process your application within <strong>30 calendar days</strong>.</p>
+<p>If you are <a href="#terminal"><strong>terminally ill</strong></a>, we aim to process your application within <strong>5 business days</strong>.</p>
+<h2>Definitions</h2>
+	<details>
+		  <summary id="terminal"><strong>Terminally ill</strong></summary>
               <p>A terminal  medical condition is a disease state that cannot be cured or adequately treated  and is reasonably expected to result in death within 6 months.</p>
-  <p><strong>Grave condition</strong></p>
+		</details>
+	<details>
+		<summary id="grave"><strong>Grave condition</strong></summary>
+	</details>
           <h2>Where you can get help</h2>
-          <p>If you have general questions about the disability benefits or specific questions about your  application, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact  us</a>.</p>
+          <p>If you have general questions about the disability benefits or specific questions about your  application, <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">contact  us</a>.</p>
           <h2>Other disability resources</h2>
-          <p>We offer  other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with  disabilities</a>.</p>
-          <div>
-          </div>
+          <p>We offer other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with disabilities</a>.</p>
+	
 </section>
       </section>
       <nav role="navigation">
