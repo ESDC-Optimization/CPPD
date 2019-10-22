@@ -169,8 +169,8 @@
           </div>
         </div>
         <section>
-    <p>The information provided below should be used as a  guideline.  We  encourage  you to apply for benefits and allow a Service Canada  representative to determine if you are eligible. Learn <a href="#_How_we_assess">how we assess applications  for the disability benefit</a>.</p>
-    <h2>Do you qualify for a disability or  children&rsquo;s benefit </h2>
+    <p>The information provided below should be used as a  guideline.  We  encourage  you to apply for benefits and allow a Service Canada  representative to determine if you are eligible. Learn <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/4.Apply#how-we-assess">how we assess applications for the disability benefit</a>.</p>
+    <h2>Do you qualify for a disability or children&rsquo;s benefit </h2>
     <h3>CPP disability benefit</h3>
     <p>The disability benefit is a monthly payment you can get if  you: </p>
     <ul>
@@ -181,7 +181,7 @@
     </ul>
     <p> </p>
     <h3>CPP  post-retirement disability benefit </h3>
-    <p>If you currently get the monthly Canada Pension Plan retirement pension, you could receive the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-post-retirement-disability-benefit.html">Canada Pension Plan post-retirement disability benefit</a> if  you:</p>
+    <p>If you currently get the monthly Canada Pension Plan retirement pension, you could receive the Canada Pension Plan post-retirement disability benefit</a> if  you:</p>
     <ul>
       <li>are 60 to 65</li>
       <li> contributed  enough to the Canada Pension Plan</li>
@@ -195,13 +195,16 @@
       <li>under 18, or</li>
       <li>between 18 and 25 and attending school full time </li>
     </ul>
+		<details>
+			<summary><strong>Other circumstances</strong></summary>
+			</details>
 	<details>
-		<summary><strong>If you worked less to   care for young children</strong></summary>
+		<summary><strong>If you worked less to care for young children</strong></summary>
     <p>If you have   periods of zero or low income because you stayed home to raise  your children, the&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html#a2">child-rearing provision</a> could help you  qualify for the disability benefit. </p>
 	</details>
 			<details>
 				<summary><strong>If you are divorced or separated</strong></summary>
-    <p>Any contributions you and your spouse or common-law partner  made to the  CPP  while you lived together may be equally divided after a divorce or a  separation. This may help you  qualify  for the disability benefit. Find out more about&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-split-credits.html">credit splitting for divorced or  separated couples</a>.</p>
+    <p>Any contributions you and your spouse or common-law partner made to the  CPP  while you lived together may be equally divided after a divorce or a separation. This may help you  qualify  for the disability benefit. Find out more about&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-split-credits.html">credit splitting for divorced or  separated couples</a>.</p>
 			</details>
     <details>
     <summary><strong>If you missed applying for disability benefits in the past</strong></summary>
