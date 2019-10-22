@@ -217,7 +217,7 @@
 		  </details>
     <details>
 		  <summary><strong>Late CPP disability applications</strong></summary>
-      <p>In the case of a <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html#lateapp">late application</a>, we may ask you  for information going back a number of years. With the appropriate information, we can treat an application as though it were submitted at an earlier date, when the applicant met the eligibility requirements. We need to determine whether your patient can be considered to have been medically eligible from that date continuously to the present time.</p>
+      <p>In the case of a <a href="https://htmlpreview.github.io/?https://github.com/ESDC-Optimization/CPPD/blob/master/2.Who-can-get-this-benefit#missed-applying">late application</a>, we may ask you  for information going back a number of years. With the appropriate information, we can treat an application as though it were submitted at an earlier date, when the applicant met the eligibility requirements. We need to determine whether your patient can be considered to have been medically eligible from that date continuously to the present time.</p>
 		  </details>
 		  <details>
   <summary><strong>Additional requirements of medical professional</strong></summary>
@@ -229,7 +229,7 @@
     <p>The personal information of patients is administered pursuant to the <a href="https://www.canada.ca/en/employment-social-development/programs/laws-regulations/pensions.html">CPP legislation</a> as well as the <a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/">Access to  Information Act</a> and the <a href="http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html">Privacy Act</a>, under which  applicants have the right to formally request a copy of their CPP disability  file, including the medical reports and supporting documents.</p>
       <p>Appropriate  exemption to the release of information may be applied if release of medical  information is considered to be contrary to the best interest of the individual  (<a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/page-11.html#h-18">section 28 of  the Privacy Act</a>).</p>
       If you feel it  would be detrimental to your patient to be given particular information about  their medical condition, indicate it in your report. We will contact you  directly to determine whether this information can be withheld or not.</p>
-    <h2>Billing</h2>
+    <h2 id="billing">Billing</h2>
     <p>You must mail  your invoice to the Service Canada office address noted on the medical form.  Payment will be made by cheque and mailed to the address noted on the invoice.<br>
       Your invoice  must include:</p>
     <ul>
@@ -259,8 +259,8 @@
     <p>The CPP disability program encourages beneficiaries to work to their potential and offers  the following return to work support:</p>
     <ul type="disc">
       <li>If a beneficiary returns to work but is unable to continue working because of the same or a related disability, he or she can ask to have the benefit <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/reinstatement.html">automatically restarted</a> without having to go through the usual reapplication process</li>
-      <li>The CPP disability       program offers <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/vocational-rehabilitation.html">vocational       rehabilitation</a> for CPP disability beneficiaries who meet the       criteria and wish to transition to regular employment</li>
-      <li>CPP disability       beneficiaries who are not yet ready to return to regular employment are       encouraged to volunteer, attend school and/or participate in training or       skills upgrading. These activities do not affect continuing eligibility       for benefits or the amount of monthly benefit</li>
+      <li>The CPP disability  program offers <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/vocational-rehabilitation.html">vocational rehabilitation</a> for CPP disability beneficiaries who meet the criteria and wish to transition to regular employment</li>
+      <li>CPP disability beneficiaries who are not yet ready to return to regular employment are       encouraged to volunteer, attend school and/or participate in training or skills upgrading. These activities do not affect continuing eligibility for benefits or the amount of monthly benefit</li>
     </ul>
     <h3><strong>Work-related  income while receiving CPP disability benefits </strong></h3>
       <p>Beneficiaries  can earn up to an annually determined modest amount before having to advise the  CPP disability program of their work-related earnings. For 2017, this amount is  $5,500 (before taxes). This level of earnings does not result in cessation of  benefits. However, it is a point at which supports and services are offered to  help with work efforts.</p>
