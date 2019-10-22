@@ -195,7 +195,6 @@
       <li>under 18, or</li>
       <li>between 18 and 25 and attending school full time </li>
     </ul>
-		<details>
 			<h2>Other circumstances</h2>
 	<details>
 		<summary><strong>If you worked less to care for young children</strong></summary>
@@ -206,7 +205,7 @@
     <p>Any contributions you and your spouse or common-law partner made to the  CPP  while you lived together may be equally divided after a divorce or a separation. This may help you  qualify  for the disability benefit. Find out more about&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-split-credits.html">credit splitting for divorced or  separated couples</a>.</p>
 			</details>
     <details>
-    <summary><strong>If you missed applying for disability benefits in the past</strong></summary>
+    <summary id="missed-applying"><strong>If you missed applying for disability benefits in the past</strong></summary>
     <p>If you are applying for the&nbsp;disability benefit but  stopped working  a  while ago, you may still apply for a benefit now. <br>
       You may be able to receive the benefit if:</p>
     <ul>
@@ -233,7 +232,8 @@
     <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p></details>
 			<details>
     <summary><strong>If you worked both in and outside Quebec</strong></summary>
-    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p></details>
+    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p>
+			</details>
 			<details>
     <summary><strong>If you worked outside Canada</strong></summary>
     <p>If  you <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-international.html">worked  in a country other than Canada</a>, the credits you earned in that country may  help you qualify for&nbsp;the&nbsp;disability benefit. </p>
