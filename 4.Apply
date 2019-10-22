@@ -293,7 +293,7 @@
 
 <section>
   <details>
-	  <summary> Information on completing the application form </summary>
+	  <summary><strong>Information on completing the application form </strong></summary>
     <ul type="disc">
       <li>read all instructions, which include steps for completing your application, changes that may affect your benefits, an address page, a checklist and other  information about disability benefits</li>
       <li>write/type your Social Insurance Number at the top of each page in the form and sign all areas that require your signature</li>
@@ -303,7 +303,7 @@
     </ul>
   </details>
 	<details>
-    <summary> Information on completing the medical form</summary>
+    <summary><strong>Information on completing the medical form</strong></summary>
     <p>In addition to your application, you need a medical form completed  by your doctor or nurse practitioner. It is very important that you:</p>
     <ul type="disc">
          <li>complete Sections 1 and 2 of <a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">the Medical Report for a Canada Pension Plan Disability Benefit form (ISP-2519)</a> <strong>before</strong> you give it to your doctor or nurse practitioner</li>
